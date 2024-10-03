@@ -25,7 +25,6 @@ public class ShearTransform {
 
     public static Scene createShearTransformScene(Stage primaryStage) {
 
-        Rectangle rect1 = new Rectangle(200, 100, 200, 100);
         Rectangle rect1 = new Rectangle(100, 100, 200, 100);
         rect1.setStroke(Color.BLACK);
         rect1.setFill(Color.LIGHTGREY);
