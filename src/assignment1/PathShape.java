@@ -29,7 +29,7 @@ public class PathShape {
 
         Path path = new Path();
         path.getElements().add(new MoveTo(50, 50));
-        path.getElements().add(new LineTo(150, 50));
+        path.getElements().add(new LineTo(250, 50));
         path.getElements().add(new LineTo(250, 150));
         path.getElements().add(new QuadCurveTo(200, 100, 150, 150));
         path.getElements().add(new QuadCurveTo(100, 200, 50, 150));
