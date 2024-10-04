@@ -8,6 +8,7 @@ package main;
  *
  * @author ilyas
  */
+import assignment1.Controller;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
